@@ -19,4 +19,4 @@ Assignment where i worked on machine learning with the goal of visualizing a pre
 -income
 -spending score
 -dataset:[mallcustomers.csv](https://github.com/user-attachments/files/30807686/mallcustomers.csv)
-Clone of -Repository:
+Clone of Repository: https://github.com/Derick-Ag/Unsupervised-Machine-Learning/blob/c1712d19d1f0f2b5e01d1b9381e41ceb6991e500/README.md
