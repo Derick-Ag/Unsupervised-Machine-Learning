@@ -32,4 +32,4 @@ Goal: visualizing a preferred number of clusters in regards to demographics of s
 
 -dataset:[mallcustomers.csv](https://github.com/user-attachments/files/30807686/mallcustomers.csv)
 
-Clone of Repository: https://github.com/Derick-Ag/Unsupervised-Machine-Learning/blob/c1712d19d1f0f2b5e01d1b9381e41ceb6991e500/README.md
+Clone of Repository: https://github.com/Derick-Ag/Unsupervised-Machine-Learning/blob/2e8a41ff590ab64a454493995ab82095aadb7929/README.md
